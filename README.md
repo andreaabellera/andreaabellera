@@ -1,5 +1,8 @@
 ![Andrea Banner](/assets/andrea_banner.jpg)
-🎉 Celebrating my 1-year webdeving anniversary. I learned so much!
+
+### Enchanté! ✨👋🏼
+- 💻 Currently a Computer Science student in the University of Manitoba
+- 🎉 Celebrating my 1-year webdeving anniversary!
 <!--
 **andreaabellera/andreaabellera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
