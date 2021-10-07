@@ -2,8 +2,7 @@
 
 ### Enchanté! ✨👋🏼
 - 💻 Currently a Computer Science student in the University of Manitoba
-- 🎉 Celebrating my 1-year webdeving anniversary!
-> *I love throwing stuff on canvas ~~with finesse~~ [like an unrestrained cavegirl](https://www.instagram.com/aviagulcas/)*
+> *I love throwing stuff on canvas [like an unrestrained cavegirl](https://www.instagram.com/aviagulcas/)*
 <!--
 **andreaabellera/andreaabellera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
