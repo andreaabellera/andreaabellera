@@ -2,7 +2,7 @@
 
 ### Enchanté! ✨👋🏼
 - 💻 Currently a Computer Science student in the University of Manitoba
-- Showcase sites from repositories: [Casually CSS](https://andreaabellera.github.io/Casually-CSS/) | [TermSetter](https://andreaabellera.github.io/TermSetter/) | [Recollection Day](https://andreaabellera.github.io/Recollection-Day-Take2/) | [I'm Hungry](https://andreaabellera.github.io/imhungry/) | [Alistair](https://andreaabellera.github.io/Alistair/) | [HTML/CSS Workshop Demo](https://andreaabellera.github.io/riverside-cafe-landing-page/)
+- Showcase sites from repositories: [Casually CSS](https://andreaabellera.github.io/Casually-CSS/) | [TermSetter](https://andreaabellera.github.io/TermSetter/) | [Recollection Day](https://andreaabellera.github.io/Recollection-Day-Take2/) | [I'm Hungry](https://andreaabellera.github.io/Imhungry/) | [Alistair](https://andreaabellera.github.io/Alistair/) | [HTML/CSS Workshop Demo](https://andreaabellera.github.io/riverside-cafe-landing-page/)
 - Thanks for visiting! Have a free [sprite pack](https://github.com/andreaabellera/Chubby-Whale-Asset-Pack) 
 > *As an aside, I love throwing stuff on canvas [like an unrestrained cavegirl](https://www.instagram.com/aviagulcas/)*
 <!--
