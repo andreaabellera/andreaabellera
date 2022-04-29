@@ -1,5 +1,3 @@
-![Andrea Banner](/assets/andrea_banner.jpg)
-
 ### Enchanté! ✨👋🏼
 - 💻 Currently a Computer Science student in the University of Manitoba
 <!--
