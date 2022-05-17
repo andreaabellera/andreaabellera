@@ -1,10 +1,15 @@
+![Andrea Abellera personal qtrlex banner](https://github.com/andreaabellera/qtrlex/blob/main/public/qtrlex_banner.png)
 ### Enchanté! ✨👋🏼
-- 💻 Currently a Computer Science student in the University of Manitoba
+- 💻 **Studying**: Computer Science in the University of Manitoba, with a sprinkle of business
+- 🔭 **Working on:** Developing my blogsite and portfolio, [qtrlex.ca](https://www.qtrlex.ca/). Packaging artworks and automating my passion project [Casually CSS](https://github.com/andreaabellera/Casually-CSS) for distribution in CommonJS, ES6, and as Svelte/React components. Planning a publicity campaign in the near future when it's ready 💓
+- 🌿 **Looking to:** Spearhead Casually Components, the deviant designer's UI toolkit to break the monotony of Bootstrap and Material-esque looks saturating modern sites
+- 🌱 **Learn List:** Touching base with Data Structures and Algorithms, but also looking to dev with Hyperledger, Solana, and Eth
+- Thanks for visiting! Have a free [sprite pack](https://github.com/andreaabellera/Chubby-Whale-Asset-Pack) 
+> *As an aside, I love throwing stuff on canvas [like an unrestrained cavegirl](https://www.instagram.com/aviagulcas/)*
+
 <!--
 - Showcase sites from repositories: [Casually CSS](https://andreaabellera.github.io/Casually-CSS/) | [Prosimm](https://github.com/andreaabellera/Prosimm) | [TermSetter](https://andreaabellera.github.io/TermSetter/) | [Recollection Day](https://andreaabellera.github.io/Recollection-Day-Take2/) | [I'm Hungry](https://andreaabellera.github.io/Imhungry/) | [Alistair](https://andreaabellera.github.io/Alistair/) | [HTML/CSS Workshop Demo](https://andreaabellera.github.io/riverside-cafe-landing-page/)
 -->
-- Thanks for visiting! Have a free [sprite pack](https://github.com/andreaabellera/Chubby-Whale-Asset-Pack) 
-> *As an aside, I love throwing stuff on canvas [like an unrestrained cavegirl](https://www.instagram.com/aviagulcas/)*
 <!--
 **andreaabellera/andreaabellera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
