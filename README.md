@@ -1,7 +1,7 @@
 ![Andrea Abellera personal qtrlex banner](https://github.com/andreaabellera/qtrlex/blob/main/public/casuallydev_banner.png)
 ### Enchanté! ✨👋🏼
 - 💻 **Studying**: Computer Science in the University of Manitoba, with a sprinkle of business
-- 🔭 **Working on:** Developing my blogsite and portfolio, [CasuallyDev](https://www.qtrlex.ca/). Packaging artworks and developing my passion project [Casually CSS](https://github.com/andreaabellera/Casually-CSS) for public distribution
+- 🔭 **Working on:** Developing my blogsite and portfolio, [CasuallyDev](https://www.casually.dev/). Packaging artworks and developing my passion project [Casually CSS](https://github.com/andreaabellera/Casually-CSS) for public distribution
 - 🌿 **Looking to:** Spearhead Casually Components, the deviant designer's UI toolkit to break the monotony of Bootstrap and Material-esque looks saturating modern sites
 - 🌱 **Learn List:** Touching base with Data Structures and Algorithms, but also looking to dev with Hyperledger, Solana, and Eth
 - Thanks for visiting! Have a free [sprite pack](https://github.com/andreaabellera/Chubby-Whale-Asset-Pack) 
