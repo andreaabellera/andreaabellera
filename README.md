@@ -4,6 +4,9 @@
 - 🔭 **Working on:** My graduation and freedom!
 - 🌿 **Looking to:** Spearhead Casually Components, the deviant designer's UI toolkit to break the monotony of Bootstrap and Material-esque looks saturating modern sites. Adventure making an amazing personal-use CMS! (which will be available open-source) Making an official CasuallyCSS documentation site. Creating my graphic novel. Going for Tiktok, potentially ;)  
 - 🌱 **Learn List:** SolidJS, Vue3, and Rocket.
-- Thanks for visiting! Grab a free [sprite pack](https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs) 
+- Thanks for visiting! Have a free [sprite pack](https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs)
+
+<a href="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/tree/main/Chubby-Whale-Asset-Pack"><img src="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/blob/main/%40icons/_chubby_.png" alt="Chubby Whale Pack"></a>  
+
 > *As an aside, I love throwing stuff on canvas [like an unrestrained cavegirl](https://www.instagram.com/aviagulcas/)*  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreaabellera&show_icons=true&theme=transparent)
