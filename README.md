@@ -5,7 +5,7 @@ A casual developer who enjoy the beautiful things in life - coffee dates, co-op 
 - 🔭 **Working on:**  
   -  My graduation! ETA April 2023
   -  Developing [Casually Components](https://github.com/andreaabellera/Casually-Components), the deviant designer's UI toolkit to break the monotony of Bootstrap and Material-esque modern sites.  
--  🌿 **Looking to:**  
+- 🌿 **Looking to:**  
   - Publish official documentation for Casually Components and Casually CSS. 
   - Rebuild and reboot my [CasuallyDev](https://github.com/andreaabellera/Casuallydev) cave to improve the general site architecture, code readability, and performance + showcase new projects and share more fun (and safe) drinks!  
   - Update my resume and bios.
