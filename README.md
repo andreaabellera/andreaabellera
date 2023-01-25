@@ -1,15 +1,15 @@
 ![Andrea Abellera personal qtrlex banner](https://github.com/andreaabellera/qtrlex/blob/main/public/casuallydev_banner.png)
 ### Hi, I am Andrea! ✨👋🏼
-A casual developer who enjoy the beautiful things in life - coffee dates, co-op games, why not? I love building awesome client apps and hold a special interest where coding meets visual art - my other passion! I often explore avenues in frontend development, UI design, styling, web and game graphic animations, and web accessibility.  
-  💻 **Studying**: Computer Science in the University of Manitoba, gearing towards solution, project, or practice management career-wise.
-  🔭 **Working on:**  
-    -  My graduation! ETA April 2023
-    -  Developing [Casually Components](https://github.com/andreaabellera/Casually-Components), the deviant designer's UI toolkit to break the monotony of Bootstrap and Material-esque modern sites.
-  🌿 **Looking to:**  
-    - Publish official documentation for Casually Components and Casually CSS. 
-    - Rebuild and reboot my [CasuallyDev](https://github.com/andreaabellera/Casuallydev) cave to improve the general site architecture, code readability, and performance + showcase new projects and share more fun (and safe) drinks!
-    - Update my resume and bios.
-  🌱 **Discovering:** What I'd like to do next 🛣️
+A casual developer who enjoy the beautiful things in life - coffee dates, co-op games, why not? I love building awesome client apps and hold a special interest where coding meets visual art - my other passion! I often explore avenues in frontend development, UI design, styling, web and game graphic animations, and web accessibility.   
+- 💻 **Studying**: Computer Science in the University of Manitoba, gearing towards solution, project, or practice management career-wise.  
+- 🔭 **Working on:**  
+  -  My graduation! ETA April 2023
+  -  Developing [Casually Components](https://github.com/andreaabellera/Casually-Components), the deviant designer's UI toolkit to break the monotony of Bootstrap and Material-esque modern sites.  
+-  🌿 **Looking to:**  
+  - Publish official documentation for Casually Components and Casually CSS. 
+  - Rebuild and reboot my [CasuallyDev](https://github.com/andreaabellera/Casuallydev) cave to improve the general site architecture, code readability, and performance + showcase new projects and share more fun (and safe) drinks!  
+  - Update my resume and bios.
+- 🌱 **Discovering:** What I'd like to do next 🛣️
 
 **Thanks for visiting! Have a free sprite pack**  
 
