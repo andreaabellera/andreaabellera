@@ -12,8 +12,9 @@ A casual developer who enjoy the beautiful things in life - coffee dates, co-op 
 - 🌱 **Discovering** what I'd like to do next 🛣️
 
 ### Hire me?
-Email *casuallyandrea@pm.me* or send me a message on [LinkedIn](https://www.linkedin.com/in/aabellera/).  
+Email *casuallyandrea@pm.me* or send me a message on *[LinkedIn](https://www.linkedin.com/in/aabellera/)*.  
 
+<br>
 **Thanks for visiting! Have a free sprite pack**  
 
 <a href="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/tree/main/Farmony-Asset-Pack"><img src="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/blob/main/%40icons/_farmony_.png" alt="Farmony Pack"></a>
