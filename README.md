@@ -11,12 +11,12 @@ A casual developer who enjoy the beautiful things in life - coffee dates, co-op 
   - Update my resume and bios.
 - 🌱 **Discovering** what I'd like to do next 🛣️
 
-### Hire me?
-Email *casuallyandrea@pm.me* or send me a message on *[LinkedIn](https://www.linkedin.com/in/aabellera/)*.  
+### Hire me
+Email casuallyandrea@pm.me or send me a message on [LinkedIn](https://www.linkedin.com/in/aabellera/).  
 
 <br>
-**Thanks for visiting! Have a free sprite pack**  
-
+<b>Thanks for visiting! Have a free sprite pack</b>
+<br>
 <a href="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/tree/main/Farmony-Asset-Pack"><img src="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/blob/main/%40icons/_farmony_.png" alt="Farmony Pack"></a>
 <a href="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/tree/main/Chubby-Whale-Asset-Pack"><img src="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/blob/main/%40icons/_chubby_.png" alt="Chubby Whale Pack"></a>
 <a href="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/tree/main/Ecoyou-Avatars-Badges"><img src="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/blob/main/%40icons/_ecoyou_.png" alt="Ecoyou Pack"></a>
