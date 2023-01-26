@@ -2,17 +2,17 @@
 ### Hi, I am Andrea! ✨👋🏼
 A casual dev enjoying the beautiful things in life - coffee dates, co-op games, why not? I love building awesome client apps and hold a special interest where coding meets visual art - my other passion! I often explore avenues in frontend development, UI design, styling, web and game graphic animations, and web accessibility.
 
-💻 **I am studying..**
-> Computer Science in the University of Manitoba, gearing towards solution, project, or practice management career-wise.  
+💻 **I am studying**
+> [Computer Science in the University of Manitoba](https://umanitoba.ca/science/computer-science), gearing towards solution, project, or practice management career-wise.  
 
-🔭 **I am working on..**  
-> - My graduation! (ETA April 2023) <br>
-> - Developing [Casually Components](https://github.com/andreaabellera/Casually-Components), the UI toolkit to break the monotony of Bootstrap and Material-esque modern sites.  
+🔭 **I am working on**  
+> - my graduation! (ETA April 2023) <br>
+> - developing [Casually Components](https://github.com/andreaabellera/Casually-Components), the UI toolkit to break the monotony of Bootstrap and Material-esque modern sites.  
 
-🌿 **I am looking to..**  
-> - Publish official documentation for Casually Components and Casually CSS. <br> 
-> - Rebuild and reboot my [CasuallyDev](https://github.com/andreaabellera/Casuallydev) cave to improve the general site architecture, code readability, and performance + showcase new projects and share more fun (and safe) drinks! <br>
-> - Update my resume and bios.
+🌿 **I am looking to**  
+> - publish official documentation for Casually Components and [Casually CSS](https://github.com/andreaabellera/Casually-CSS). <br> 
+> - rebuild and reboot my [CasuallyDev](https://github.com/andreaabellera/Casuallydev) cave to improve the general site architecture, code readability, and performance + showcase new projects and share more fun (and safe) drinks! <br>
+> - update my resume and bios.
 
 ## Want to hire me?
 Email casuallyandrea@pm.me or shoot me a message on [LinkedIn](https://www.linkedin.com/in/aabellera/)!  
