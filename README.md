@@ -16,13 +16,14 @@ Email casuallyandrea@pm.me or send me a message on [LinkedIn](https://www.linked
 
 ### Thanks for visiting!
 
-**Claim a cool souvenir from these free sprite packs**
+Claim a souvenir from these any of free sprite packs
+<br>
 <a href="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/tree/main/Farmony-Asset-Pack"><img src="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/blob/main/%40icons/_farmony_.png" alt="Farmony Pack"></a>
 <a href="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/tree/main/Chubby-Whale-Asset-Pack"><img src="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/blob/main/%40icons/_chubby_.png" alt="Chubby Whale Pack"></a>
 <a href="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/tree/main/Ecoyou-Avatars-Badges"><img src="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/blob/main/%40icons/_ecoyou_.png" alt="Ecoyou Pack"></a>
 <a href="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/tree/main/Recollection-Day-Asset-Pack"><img src="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/blob/main/%40icons/_rd_.png" alt="Recollection Day Pack"></a>  
-
-**(Accidentally) stumble by [my old art Instagram](https://www.instagram.com/aviagulcas/)**  
-
-**How it's goin'**
+<br>
+(Accidentally) stumble by [my old art Instagram](https://www.instagram.com/aviagulcas/)  
+<br>
+Check how's Githubbin'
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreaabellera&show_icons=true&theme=transparent)
