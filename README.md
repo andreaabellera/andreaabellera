@@ -5,12 +5,12 @@ A casual developer who enjoy the beautiful things in life - coffee dates, co-op 
 > Computer Science in the University of Manitoba, gearing towards solution, project, or practice management career-wise.  
 
 🔭 **Working on**  
-> My graduation ETA April 2023!
+> My graduation ETA April 2023! <br>
 > Developing [Casually Components](https://github.com/andreaabellera/Casually-Components), the deviant designer's UI toolkit to break the monotony of Bootstrap and Material-esque modern sites.  
 
 🌿 **Looking to**  
-> Publish official documentation for Casually Components and Casually CSS. 
-> Rebuild and reboot my [CasuallyDev](https://github.com/andreaabellera/Casuallydev) cave to improve the general site architecture, code readability, and performance + showcase new projects and share more fun (and safe) drinks!  
+> Publish official documentation for Casually Components and Casually CSS. <br> 
+> Rebuild and reboot my [CasuallyDev](https://github.com/andreaabellera/Casuallydev) cave to improve the general site architecture, code readability, and performance + showcase new projects and share more fun (and safe) drinks! <br>
 > Update my resume and bios.
 
 🌱 **Discovering**
