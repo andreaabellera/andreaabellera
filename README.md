@@ -1,18 +1,17 @@
 ![Andrea Abellera personal qtrlex banner](https://github.com/andreaabellera/qtrlex/blob/main/public/casuallydev_banner.png)
-### Hi, I am Andrea! ✨👋🏼
+### Hi, I am Andrea! 🍵🌸
 A casual dev enjoying the beautiful things in life - coffee dates, co-op games, why not? I love building awesome client apps and hold a special interest where coding meets visual art - my other passion! I often explore avenues in frontend development, UI design, styling, web and game graphic animations, and web accessibility.
 
 💻 **I am studying**
 > [Computer Science in the University of Manitoba](https://umanitoba.ca/science/computer-science), gearing towards careers in development, solutions architecture, or practice management.  
 
 🔭 **I am working on**  
-> - my graduation! (ETA April 2023) <br>
 > - developing [Casually Components](https://github.com/andreaabellera/Casually-Components), the UI toolkit to break the monotony of Bootstrap and Material-esque modern sites.  
 
 🌿 **I am learning**  
 > - Lit, Angular, Blazor + ASP.NET. Time to unveil the golden days of MVCs (and take a small break from SFCs and functional components). 
 
-## Want to hire me?
+## Let's Connect!
 Email casuallyandrea@pm.me or shoot me a message on [LinkedIn](https://www.linkedin.com/in/aabellera/)!  
 
 ### Thanks for visiting 🤍
