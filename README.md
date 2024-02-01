@@ -9,6 +9,9 @@ A casual dev enjoying the beautiful things in life - coffee dates, co-op games, 
 ## Let's Connect!
 Email casuallyandrea@pm.me or shoot me a message on [LinkedIn](https://www.linkedin.com/in/aabellera/)!  
 
+## Hire Me?
+See my [resume](https://www.casually.dev/resume/). I'm open to discuss career opportunities, casual roles, or collaborations.
+
 ### Thanks for visiting 🤍
  
 Claim a small souvenir from these free sprite packs 😊  
