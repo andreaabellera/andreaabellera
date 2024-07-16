@@ -1,7 +1,7 @@
 ![Andrea Abellera personal qtrlex banner](https://github.com/andreaabellera/qtrlex/blob/main/public/casuallydev_banner.png)
 ### Hi, I am Andrea!
 A casual dev ~~retired keener dev~~ enjoying the beautiful things in web.  
-Pivoting tables on sunlit rooms by day. Mad science experiments by night.
+Pivoting tables on sunlit rooms by day. **Mad science experiments by night.**
 
 🌿 **[Hit me up](mailto:casuallyandrea@pm.me) when you want a..**  
 - ✨Beautiful✨ user interface
@@ -9,7 +9,7 @@ Pivoting tables on sunlit rooms by day. Mad science experiments by night.
 - Data viz or dashboard
 - Web accessibility patch
 - Vector art or animation
-- Hype gal, or someone who'll support your mad science or tasteful art
+- Hype gal, or someone who'll support your tasteful art
 
 ### Thanks for visiting 🤍
  
