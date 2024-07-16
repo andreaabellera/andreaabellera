@@ -4,8 +4,8 @@ A casual dev ~~retired keener dev~~ enjoying the beautiful things in web.
 Pivoting tables on sunlit rooms by day. **Mad science experiments by night.**
 
 🌿 **[Hit me up](mailto:casuallyandrea@pm.me) when you want a..**  
-- ✨Beautiful✨ user interface
-- Frontend wizardry
+- Beautiful user interface
+- Frontend wizardry to happen
 - Data viz or dashboard
 - Web accessibility patch
 - Vector art or animation
