@@ -1,16 +1,14 @@
 ![Andrea Abellera personal qtrlex banner](https://github.com/andreaabellera/qtrlex/blob/main/public/casuallydev_banner.png)
 ### Hi, I am Andrea!
-A casual dev enjoying the beautiful things in life - coffee dates, co-op games, why not? I love building beautiful client apps, user interfaces, and data visualizations. I hold a special interest where coding meets visual art - my other passion! I often explore avenues in frontend development, UI design, styling, web and game graphic animations, and web accessibility.
+A casual dev ~~retired keener dev~~ enjoying the beautiful things in web. Pivoting tables on sunlit rooms by day. Mad science experiments by night 🧪
 
-🌿 **I am learning**  
-> - Jekyll theme creation.  
-> - Lit, Angular, Blazor + ASP.NET - Unveiling the golden days of MVCs after much exposure on SFCs and functional components. 
-
-## Let's Connect!
-Email casuallyandrea@pm.me or shoot me a message on [LinkedIn](https://www.linkedin.com/in/aabellera/)!  
-
-## Hire Me?
-See my [resume](https://www.casually.dev/resume/). I'm open to discuss career opportunities, casual roles, or collaborations.
+🌿 **[Hit me up](mailto:casuallyandrea@pm.me) when you want a..**  
+> - ✨Beautiful✨ user interface
+> - Frontend wizardry
+> - Data viz or dashboard
+> - Web accessibility patch
+> - Vector art or animation
+> - Hype gal, or someone who'll appreciate your mad science or tasteful art
 
 ### Thanks for visiting 🤍
  
