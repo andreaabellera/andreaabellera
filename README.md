@@ -1,14 +1,15 @@
 ![Andrea Abellera personal qtrlex banner](https://github.com/andreaabellera/qtrlex/blob/main/public/casuallydev_banner.png)
 ### Hi, I am Andrea!
-A casual dev ~~retired keener dev~~ enjoying the beautiful things in web. Pivoting tables on sunlit rooms by day. Mad science experiments by night 🧪
+A casual dev ~~retired keener dev~~ enjoying the beautiful things in web.  
+Pivoting tables on sunlit rooms by day. Mad science experiments by night.
 
 🌿 **[Hit me up](mailto:casuallyandrea@pm.me) when you want a..**  
-> - ✨Beautiful✨ user interface
-> - Frontend wizardry
-> - Data viz or dashboard
-> - Web accessibility patch
-> - Vector art or animation
-> - Hype gal, or someone who'll appreciate your mad science or tasteful art
+- ✨Beautiful✨ user interface
+- Frontend wizardry
+- Data viz or dashboard
+- Web accessibility patch
+- Vector art or animation
+- Hype gal, or someone who'll support your mad science or tasteful art
 
 ### Thanks for visiting 🤍
  
