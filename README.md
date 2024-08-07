@@ -1,11 +1,11 @@
-![Andrea Abellera personal qtrlex banner](https://github.com/andreaabellera/qtrlex/blob/main/public/casuallydev_banner.png)
-### Hi, I am Andrea!
-A casual dev ~~retired keener dev~~ enjoying the beautiful things in web.  
-Pivoting tables on sunlit rooms by day. **Mad science experiments by night.**
+![Andrea Abellera's personal banner greets you a great day ahead!](https://github.com/andreaabellera/qtrlex/blob/main/public/casuallydev_banner.png)
+### Hi, I'm Andrea! 
+A casual dev ~~retired keener~~ enjoying the beautiful things in web.   
+I pivot tables and query Jira tickets in sunlit rooms by day and cook **mad science experiments** by night.
 
 🌿 **[Hit me up](mailto:casuallyandrea@pm.me) when you want a..**  
 - Beautiful user interface
-- Frontend wizardry to happen
+- Frontend wizardry
 - Data viz or dashboard
 - Web accessibility patch
 - Vector art or animation
