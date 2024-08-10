@@ -1,4 +1,4 @@
-![Andrea Abellera's personal banner greets you a great day ahead!](https://github.com/andreaabellera/qtrlex/blob/main/public/casuallydev_banner.png)
+![Andrea Abellera's personal banner greets you a great day ahead!](/casuallydev_banner.png)
 ### Hi, I'm Andrea! 
 A casual dev ~~retired keener~~ enjoying the beautiful things in web.   
 I pivot tables and query Jira tickets in sunlit rooms by day and cook **mad science experiments** by night.
