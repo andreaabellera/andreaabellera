@@ -1,14 +1,15 @@
 ### Hi, I'm Andrea!  
 
-Frontend dev is my muse. Pivot tables are my bae. Python scripting is my battle cry.
-I sometimes run mad science experiments by night.
+A casual artist that retired from the dev grind and enjoy the beautiful things on the web.
+I transition Jira issues and refine backlogs by day, and sometimes run mad science experiments by night.  
 
 #### ❤️ Favorite tools
-- Most NodeJS frameworks with bias to Vanilla, Svelte, and Vue
+- Most NodeJS frameworks (with a calculated bias to Vanilla, Svelte, and Vue)
 - Figma figma boy
+- Python for scripting
 - VSCode
 - Debian
-- MS Excel
+- MS Excel pivot tables
 
 #### 🌿 Things I love to build  
 - Beautiful user interfaces
