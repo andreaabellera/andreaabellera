@@ -1,7 +1,7 @@
 ### Hi, I'm Andrea!  
 
-A casual artist that retired from the dev grind and enjoy the beautiful things on the web.
-I transition Jira issues and refine backlogs by day, and sometimes run mad science experiments by night.  
+A casual artist that retired from the dev grind and joined the stakeholder meetings.
+I transition Jira issues and refine backlogs by day, and run mad science experiments by night.  
 
 #### ❤️ Favorite tools
 - Most NodeJS frameworks (with a calculated bias to Vanilla, Svelte, and Vue)
