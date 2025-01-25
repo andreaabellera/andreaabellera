@@ -1,15 +1,21 @@
-![Andrea Abellera's personal banner greets you a great day ahead!](/casuallydev_banner.png)
-### Hi, I'm Andrea! 
-A casual dev ~~retired keener~~ enjoying the beautiful things in web.   
-I pivot tables and query Jira tickets in sunlit rooms by day and cook **mad science experiments** by night.
+### Hi, I'm Andrea!  
 
-🌿 **[Hit me up](mailto:casuallyandrea@pm.me) when you want a..**  
-- Beautiful user interface
-- Frontend wizardry
-- Data viz or dashboard
-- Web accessibility patch
-- Vector art or animation
-- Hype gal, or someone who'll support your tasteful art
+Frontend dev is my muse. Pivot tables are my bae. Python scripting is my battle cry.
+I sometimes run mad science experiments by night.
+
+#### ❤️ Favorite tools
+- Most NodeJS frameworks with bias to Vanilla, Svelte, and Vue
+- Figma figma boy
+- VSCode
+- Debian
+- MS Excel
+
+#### 🌿 Things I love to build  
+- Beautiful user interfaces
+- Frontend wizardries
+- Data vizzes and dashboards
+- Web accessibility patches
+- Vector art and animations
 
 ### Thanks for visiting 🤍
  
