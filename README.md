@@ -4,9 +4,9 @@ A casual artist that retired from the dev grind and joined the stakeholder meeti
 I transition Jira issues and refine backlogs by day, and run mad science experiments by night.  
 
 #### ❤️ Favorite tools
-- Most NodeJS frameworks (with a calculated bias to Vanilla, Svelte, and Vue)
-- Figma figma boy
-- Python for scripting
+- Most NodeJS frameworks
+- Figma
+- Python
 - VSCode
 - Debian
 - MS Excel pivot tables
@@ -20,6 +20,6 @@ I transition Jira issues and refine backlogs by day, and run mad science experim
 
 ### Thanks for visiting 🤍
  
-Claim a small souvenir from these free sprite packs 😊  
+Claim a small souvenir from these free sprite packs  
 
-<a href="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/tree/main/Farmony-Asset-Pack"><img src="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/blob/main/%40icons/_farmony_.png" alt="Farmony Pack"></a> <a href="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/tree/main/Chubby-Whale-Asset-Pack"><img src="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/blob/main/%40icons/_chubby_.png" alt="Chubby Whale Pack"></a> <a href="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/tree/main/Ecoyou-Avatars-Badges"><img src="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/blob/main/%40icons/_ecoyou_.png" alt="Ecoyou Pack"></a> <a href="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/tree/main/Recollection-Day-Asset-Pack"><img src="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/blob/main/%40icons/_rd_.png" alt="Recollection Day Pack"></a>  
+<a href="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/tree/main/Farmony-Asset-Pack"><img src="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/blob/main/%40icons/_farmony_.png" alt="Farmony Pack"></a> <a href="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/tree/main/Chubby-Whale-Asset-Pack"><img src="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/blob/main/%40icons/_chubby_.png" alt="Chubby Whale Pack"></a> <a href="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/tree/main/Ecoyou-Avatars-Badges"><img src="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/blob/main/%40icons/_ecoyou_.png" alt="Ecoyou Pack"></a> <a href="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/tree/main/Recollection-Day-Asset-Pack"><img src="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/blob/main/%40icons/_rd_.png" alt="Recollection Day Pack"></a> <a href="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/tree/main/APaintShop-Asset-Pack"><img src="https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/blob/main/%40icons/_apaintshop_.png" alt="A Paint Shop Pack"></a>
